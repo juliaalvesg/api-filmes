@@ -1,0 +1,6 @@
+O nosso trabalho foi criado com o intuito de consultar uma API externa de filmes, a partir de numeros 
+aleatoros gerados pela função do JavaScript ".Math", será selecionado um filme e exibido para o usuario
+quando ele apertar no botão "gerar um filme". Após o usuario clicar no botão, será exibido o nome do filme,
+uma overwiew, uma imagem com dados gerados da API externa. Também nessa página o usuário conseguirá dar 
+uma nota para o filme e sua avaliação, que entra na parte onde foi feito o CRUD do trabalho, as informações
+digitadas pelo usuraio sera exibido em formato de lista e ele podera editar e excluir. 
